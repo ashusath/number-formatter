@@ -1,6 +1,10 @@
 Number Formatter
 =========
 
+[![Build Status](https://travis-ci.com/ashusath/number-formatter.svg?branch=master)](https://travis-ci.com/ashusath/number-formatter)
+
+[![Coverage Status](https://coveralls.io/repos/github/ashusath/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/ashusath/number-formatter?branch=master)
+
 A small library that adds commas to numbers
 
 ## Installation
